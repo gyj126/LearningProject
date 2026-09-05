@@ -13,10 +13,15 @@ with sync_playwright() as p:
     # 复用 Chrome 启动时已有的页面
     page = context.pages[0]
 
-    page.goto("https://www.bilibili.com/")
-
-    logger.info(page.title())
+    response = page.goto("https://www.bilibili.com/", wait_until="domcontentloaded", timeout=30_000,)
     logger.info(page.url)
+    logger.info(page.title())
+    logger.info(page.content()[:50])
+
+    logger.info(response.url)
+    logger.info(response.status)
+    logger.info(response.headers)
+
 
     # input("Press Enter to exit...")
 
