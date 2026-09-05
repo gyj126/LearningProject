@@ -1,7 +1,19 @@
-2026/09/05-22:00:06.465 6214 Reusing MANIFEST D:\data\PycharmProjects\LearningProject\chrome-profile\Default\Local Storage\leveldb/MANIFEST-000001
-2026/09/05-22:00:06.467 6214 Recovering log #3
-2026/09/05-22:00:06.468 6214 Level-0 table #3: started
-2026/09/05-22:00:06.469 6214 Level-0 table #3: 36297 bytes OK
-2026/09/05-22:00:06.470 6214 Delete type=0 #3
-2026/09/05-22:00:19.329 6214 Level-0 table #6: started
-2026/09/05-22:00:19.331 6214 Level-0 table #6: 35659 bytes OK
+2026/09/05-22:20:45.986 3b14 Reusing MANIFEST D:\data\PycharmProjects\LearningProject\chrome-profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/05-22:20:45.988 3b14 Recovering log #16
+2026/09/05-22:20:45.989 3b14 Level-0 table #19: started
+2026/09/05-22:20:45.990 3b14 Level-0 table #19: 37960 bytes OK
+2026/09/05-22:20:45.990 3b14 Recovering log #19
+2026/09/05-22:20:45.991 3b14 Reusing old log D:\data\PycharmProjects\LearningProject\chrome-profile\Default\Local Storage\leveldb/000019.log 
+2026/09/05-22:20:45.991 3b14 Delete type=0 #16
+2026/09/05-22:20:45.991 3b14 Delete type=2 #20
+2026/09/05-22:20:45.992 6730 Compacting 4@0 + 1@1 files
+2026/09/05-22:20:45.994 6730 Generated table #20@0: 26 keys, 41361 bytes
+2026/09/05-22:20:45.994 6730 Compacted 4@0 + 1@1 files => 41361 bytes
+2026/09/05-22:20:45.994 6730 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/05-22:20:45.995 6730 Delete type=2 #11
+2026/09/05-22:20:45.995 6730 Delete type=2 #13
+2026/09/05-22:20:45.995 6730 Delete type=2 #15
+2026/09/05-22:20:45.995 6730 Delete type=2 #17
+2026/09/05-22:20:45.995 6730 Delete type=2 #19
+2026/09/05-22:20:56.445 3b14 Level-0 table #22: started
+2026/09/05-22:20:56.446 3b14 Level-0 table #22: 37808 bytes OK

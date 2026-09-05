@@ -3,6 +3,11 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/chrome-profile/Crashpad/attachments" />
+      <excludeFolder url="file://$MODULE_DIR$/chrome-profile/Crashpad/reports" />
+      <excludeFolder url="file://$MODULE_DIR$/chrome-profile/Default/IndexedDB" />
+      <excludeFolder url="file://$MODULE_DIR$/chrome-profile/Default/blob_storage" />
+      <excludeFolder url="file://$MODULE_DIR$/chrome-profile/Safe Browsing" />
     </content>
     <orderEntry type="jdk" jdkName="D:\data\PycharmProjects\LearningProject\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -1,9 +1,9 @@
-2026/09/05-22:00:21.718 66b0 Reusing MANIFEST D:\data\PycharmProjects\LearningProject\chrome-profile\Default\Local Storage\leveldb/MANIFEST-000001
-2026/09/05-22:00:21.721 66b0 Recovering log #4
-2026/09/05-22:00:21.721 66b0 Level-0 table #6: started
-2026/09/05-22:00:21.722 66b0 Level-0 table #6: 35659 bytes OK
-2026/09/05-22:00:21.722 66b0 Recovering log #5
-2026/09/05-22:00:21.723 66b0 Reusing old log D:\data\PycharmProjects\LearningProject\chrome-profile\Default\Local Storage\leveldb/000005.log 
-2026/09/05-22:00:21.724 66b0 Delete type=0 #4
-2026/09/05-22:00:22.536 66b0 Level-0 table #8: started
-2026/09/05-22:00:22.538 66b0 Level-0 table #8: 35696 bytes OK
+2026/09/05-22:21:03.779 4700 Reusing MANIFEST D:\data\PycharmProjects\LearningProject\chrome-profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/05-22:21:03.781 4700 Recovering log #19
+2026/09/05-22:21:03.782 4700 Level-0 table #22: started
+2026/09/05-22:21:03.783 4700 Level-0 table #22: 37808 bytes OK
+2026/09/05-22:21:03.783 4700 Recovering log #21
+2026/09/05-22:21:03.784 4700 Reusing old log D:\data\PycharmProjects\LearningProject\chrome-profile\Default\Local Storage\leveldb/000021.log 
+2026/09/05-22:21:03.784 4700 Delete type=0 #19
+2026/09/05-22:21:04.644 4700 Level-0 table #24: started
+2026/09/05-22:21:04.646 4700 Level-0 table #24: 37934 bytes OK
