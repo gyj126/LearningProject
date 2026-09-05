@@ -3,7 +3,7 @@ from loguru import logger
 
 with sync_playwright() as p:
     context = p.chromium.launch_persistent_context(
-        user_data_dir="./chrome-profile",
+        user_data_dir="../chrome-profile",
         headless=False,
         args=["--start-maximized"],
         no_viewport=True,
